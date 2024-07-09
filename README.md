@@ -1,11 +1,16 @@
-## Hi there 👋
+## Hi there 👋, welcome
+
+Hello there, I am Mickael. I am from Madagascar and I am currently a student in 42 school Antananarivo.
+
+I am passionated with cybersecurity and AI . Later on I would like to be a Security Architect of a big company.
+I am also interested in becoming an entrepreuneur .
 
 <!--
 **mmaevani/mmaevani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning C language
+- 📫 How to reach me: contact me by mail mmaevani@student.42antananarivo.mg
